@@ -5,7 +5,7 @@
 # @require        'yo' to be installed
 
 # Location of this plugin
-. "$__yeoman_pluginDir"/helpers_yo
+. "$__YEOMAN_PLUGIN_DIR"/helpers_yo
 
 local state line context
 # $opt_args is an associative array that contains command-line options like -d or -f
